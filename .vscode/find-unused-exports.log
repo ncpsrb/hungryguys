@@ -1,0 +1,992 @@
+2023-08-26T08:39:41.461Z
+Path to project: "e:/Programming/Project/hungryguys"
+Warning: compilerOptions.paths requires compilerOptions.baseUrl which is not defined
+Using glob rule: "e:/Programming/Project/hungryguys/**/*.@(ts|js)?(x)"
+And glob ignore rules: [
+  "e:/Programming/Project/hungryguys/**/node_modules/**/*",
+  "e:/Programming/Project/hungryguys/**/*.d.ts",
+  "e:/Programming/Project/hungryguys/node_modules/**/*",
+  "e:/Programming/Project/hungryguys/bower_components/**/*",
+  "e:/Programming/Project/hungryguys/jspm_packages/**/*"
+]
+Found source file: "e:/Programming/Project/hungryguys/next.config.js"
+Found source file: "e:/Programming/Project/hungryguys/app/Views/errors/html/debug.js"
+Found source file: "e:/Programming/Project/hungryguys/components/footer.js"
+Found source file: "e:/Programming/Project/hungryguys/components/navbar.js"
+Found source file: "e:/Programming/Project/hungryguys/components/product.js"
+Found source file: "e:/Programming/Project/hungryguys/pages/index.js"
+Found source file: "e:/Programming/Project/hungryguys/pages/payment.js"
+Found source file: "e:/Programming/Project/hungryguys/pages/_app.js"
+Found source file: "e:/Programming/Project/hungryguys/pages/_document.js"
+Found source file: "e:/Programming/Project/hungryguys/pages/admin/dashboard.js"
+Found source file: "e:/Programming/Project/hungryguys/pages/admin/login.js"
+Found source file: "e:/Programming/Project/hungryguys/pages/api/midtrans.js"
+Found source file: "e:/Programming/Project/hungryguys/public/dashboard.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/demo/chart-area-demo.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/demo/chart-bar-demo.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/demo/chart-pie-demo.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/demo/datatables-demo.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/dist/bootstrap/js/bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery/jquery-3.3.1.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery/jquery-ui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery-validation/additional-methods.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery-validation/jquery.validate.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/dist/popper/popper.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/adminlte.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/bootstrap.bundle.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/bootstrap4-toggle.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/datatables-simple-demo.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/jquery-3.6.0.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/jquery.validate.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/scripts.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/sweetalert2.all.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/js/sweetalert2.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/datatables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/datatables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap4.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap4.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bulma.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bulma.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.colVis.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.colVis.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.foundation.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.foundation.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.html5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.html5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.jqueryui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.jqueryui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.print.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.print.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.semanticui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.semanticui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/dataTables.buttons.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/dataTables.buttons.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap4.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap4.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bulma.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bulma.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.foundation.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.foundation.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.jqueryui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.jqueryui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.semanticui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.semanticui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/jquery.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/jquery.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/dataTables.fixedColumns.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/dataTables.fixedColumns.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap4.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap4.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bulma.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bulma.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.foundation.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.foundation.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.jqueryui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.jqueryui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.semanticui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.semanticui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/dataTables.fixedHeader.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/dataTables.fixedHeader.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap4.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap4.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bulma.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bulma.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.foundation.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.foundation.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.jqueryui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.jqueryui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.semanticui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.semanticui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/JSZip-2.5.0/jszip.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/JSZip-2.5.0/jszip.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/pdfmake-0.1.36/pdfmake.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/pdfmake-0.1.36/pdfmake.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/pdfmake-0.1.36/vfs_fonts.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/dataTables.responsive.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/dataTables.responsive.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap4.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap4.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bulma.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bulma.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.foundation.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.foundation.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.jqueryui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.jqueryui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.semanticui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.semanticui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/dataTables.select.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/dataTables.select.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap4.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap4.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bulma.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bulma.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.foundation.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.foundation.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.jqueryui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.jqueryui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.semanticui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.semanticui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/dataTables.stateRestore.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/dataTables.stateRestore.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/index.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap4.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap4.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap5.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap5.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bulma.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bulma.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.dataTables.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.dataTables.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.foundation.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.foundation.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.jqueryui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.jqueryui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/StateRestore.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.semanticui.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.semanticui.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/StateRestoreCollection.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/OverlayScrollbars.js"
+Found source file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/OverlayScrollbars.min.js"
+Found source file: "e:/Programming/Project/hungryguys/system/Debug/Toolbar/Views/toolbar.js"
+Found source file: "e:/Programming/Project/hungryguys/system/Debug/Toolbar/Views/toolbarloader.js"
+Found source file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/microtime.js"
+Found source file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/plain.js"
+Found source file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/rich.js"
+Found source file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/shared.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/microtime.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/plain.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/rich.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/shared.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/bootstrap.min.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/d3.min.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/file.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/jquery.min.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/nv.d3.min.js"
+Found source file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/popper.min.js"
+Finding the sources took (12081ms)
+Parse file: "e:/Programming/Project/hungryguys/next.config.js"
+Normalizing the content took (1ms)
+Found imports: 0 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/app/Views/errors/html/debug.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/components/footer.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 1 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/components/navbar.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 1 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/components/product.js"
+Normalizing the content took (3ms)
+Found imports: 2 (2ms)
+Found exports: 1 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/pages/index.js"
+Normalizing the content took (1ms)
+Found imports: 3 (0ms)
+Found exports: 1 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/pages/payment.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 1 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/pages/_app.js"
+Normalizing the content took (0ms)
+Found imports: 4 (1ms)
+Found exports: 1 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/pages/_document.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 1 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/pages/admin/dashboard.js"
+Normalizing the content took (0ms)
+Found imports: 0 (1ms)
+Found exports: 1 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/pages/admin/login.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 1 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/pages/api/midtrans.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 1 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/dashboard.js"
+Normalizing the content took (2ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/demo/chart-area-demo.js"
+Normalizing the content took (1ms)
+Found imports: 0 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/demo/chart-bar-demo.js"
+Normalizing the content took (0ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/demo/chart-pie-demo.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/demo/datatables-demo.js"
+Normalizing the content took (0ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/dist/bootstrap/js/bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery/jquery-3.3.1.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (3ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery/jquery-ui.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery-validation/additional-methods.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/dist/jquery-validation/jquery.validate.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/dist/popper/popper.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/adminlte.min.js"
+Normalizing the content took (3ms)
+Found imports: 0 (1ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/bootstrap.bundle.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/bootstrap4-toggle.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/datatables-simple-demo.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/jquery-3.6.0.min.js"
+Normalizing the content took (0ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/jquery.validate.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/scripts.js"
+Normalizing the content took (2ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/sweetalert2.all.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/js/sweetalert2.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/datatables.js"
+Normalizing the content took (30ms)
+Found imports: 20 (86ms)
+Found exports: 0 (35ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/datatables.min.js"
+Normalizing the content took (41ms)
+Found imports: 18 (9ms)
+Found exports: 0 (12ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap4.js"
+Normalizing the content took (5ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap4.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap5.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bootstrap5.min.js"
+Normalizing the content took (4ms)
+Found imports: 2 (3ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bulma.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.bulma.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.colVis.js"
+Normalizing the content took (6ms)
+Found imports: 2 (1ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.colVis.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.dataTables.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.dataTables.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.foundation.js"
+Normalizing the content took (3ms)
+Found imports: 2 (2ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.foundation.min.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.html5.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.html5.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (6ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.jqueryui.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.jqueryui.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.print.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.print.min.js"
+Normalizing the content took (7ms)
+Found imports: 2 (3ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.semanticui.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/buttons.semanticui.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/dataTables.buttons.js"
+Normalizing the content took (5ms)
+Found imports: 1 (2ms)
+Found exports: 0 (3ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Buttons-2.0.1/js/dataTables.buttons.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (3ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap4.js"
+Normalizing the content took (3ms)
+Found imports: 1 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap4.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap5.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bootstrap5.min.js"
+Normalizing the content took (3ms)
+Found imports: 1 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bulma.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.bulma.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.dataTables.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.dataTables.min.js"
+Normalizing the content took (3ms)
+Found imports: 1 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.foundation.js"
+Normalizing the content took (2ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.foundation.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.jqueryui.js"
+Normalizing the content took (0ms)
+Found imports: 1 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.jqueryui.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.semanticui.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/dataTables.semanticui.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/jquery.dataTables.js"
+Normalizing the content took (3ms)
+Found imports: 2 (1ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/DataTables-1.11.3/js/jquery.dataTables.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/dataTables.fixedColumns.js"
+Normalizing the content took (2ms)
+Found imports: 1 (1ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/dataTables.fixedColumns.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap4.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap4.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap5.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bootstrap5.min.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bulma.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.bulma.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.dataTables.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.dataTables.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.foundation.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.foundation.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.jqueryui.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.jqueryui.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.semanticui.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedColumns-4.0.1/js/fixedColumns.semanticui.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/dataTables.fixedHeader.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/dataTables.fixedHeader.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap4.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap4.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap5.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bootstrap5.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bulma.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.bulma.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.dataTables.js"
+Normalizing the content took (1ms)
+Found imports: 2 (3ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.dataTables.min.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.foundation.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.foundation.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.jqueryui.js"
+Normalizing the content took (0ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.jqueryui.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.semanticui.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/FixedHeader-3.2.0/js/fixedHeader.semanticui.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/JSZip-2.5.0/jszip.js"
+Normalizing the content took (3ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/JSZip-2.5.0/jszip.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (2ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/pdfmake-0.1.36/pdfmake.js"
+Normalizing the content took (17ms)
+Found imports: 2 (7ms)
+Found exports: 0 (7ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/pdfmake-0.1.36/pdfmake.min.js"
+Normalizing the content took (6ms)
+Found imports: 0 (2ms)
+Found exports: 0 (5ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/pdfmake-0.1.36/vfs_fonts.js"
+Normalizing the content took (5ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/dataTables.responsive.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/dataTables.responsive.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap4.js"
+Normalizing the content took (1ms)
+Found imports: 2 (2ms)
+Found exports: 0 (3ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap4.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap5.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bootstrap5.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bulma.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.bulma.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.dataTables.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.dataTables.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.foundation.js"
+Normalizing the content took (0ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.foundation.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.jqueryui.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.jqueryui.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.semanticui.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Responsive-2.2.9/js/responsive.semanticui.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/dataTables.select.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/dataTables.select.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap4.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap4.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (2ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap5.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bootstrap5.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bulma.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.bulma.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.dataTables.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.dataTables.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.foundation.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.foundation.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.jqueryui.js"
+Normalizing the content took (2ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.jqueryui.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.semanticui.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/Select-1.3.3/js/select.semanticui.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/dataTables.stateRestore.js"
+Normalizing the content took (1ms)
+Found imports: 1 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/dataTables.stateRestore.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/index.js"
+Normalizing the content took (2ms)
+Found imports: 3 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap4.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap4.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap5.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bootstrap5.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bulma.js"
+Normalizing the content took (1ms)
+Found imports: 2 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.bulma.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.dataTables.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.dataTables.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.foundation.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.foundation.min.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.jqueryui.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.jqueryui.min.js"
+Normalizing the content took (3ms)
+Found imports: 2 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/StateRestore.js"
+Normalizing the content took (1ms)
+Found imports: 0 (1ms)
+Found exports: 2 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.semanticui.js"
+Normalizing the content took (0ms)
+Found imports: 2 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/stateRestore.semanticui.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/datatables/StateRestore-1.1.1/js/StateRestoreCollection.js"
+Normalizing the content took (1ms)
+Found imports: 1 (1ms)
+Found exports: 2 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.js"
+Normalizing the content took (6ms)
+Found imports: 1 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"
+Normalizing the content took (1ms)
+Found imports: 1 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/OverlayScrollbars.js"
+Normalizing the content took (3ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/public/assets/plugins/overlayScrollbars/js/OverlayScrollbars.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (3ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/system/Debug/Toolbar/Views/toolbar.js"
+Normalizing the content took (1ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/system/Debug/Toolbar/Views/toolbarloader.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/microtime.js"
+Normalizing the content took (0ms)
+Found imports: 0 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/plain.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/rich.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/system/ThirdParty/Kint/resources/compiled/shared.js"
+Normalizing the content took (0ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/microtime.js"
+Normalizing the content took (3ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/plain.js"
+Normalizing the content took (0ms)
+Found imports: 0 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/rich.js"
+Normalizing the content took (0ms)
+Found imports: 0 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/kint-php/kint/resources/compiled/shared.js"
+Normalizing the content took (0ms)
+Found imports: 0 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/bootstrap.min.js"
+Normalizing the content took (1ms)
+Found imports: 2 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/d3.min.js"
+Normalizing the content took (7ms)
+Found imports: 0 (2ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/file.js"
+Normalizing the content took (1ms)
+Found imports: 0 (0ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/jquery.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (1ms)
+Found exports: 0 (0ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/nv.d3.min.js"
+Normalizing the content took (1ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parse file: "e:/Programming/Project/hungryguys/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/popper.min.js"
+Normalizing the content took (2ms)
+Found imports: 0 (1ms)
+Found exports: 0 (1ms)
+Parsing the files took (868ms)
+Processed files: 194 (138ms)
+Files having imports|exports: 13 (1ms)
+Total imports: 8 (1ms)
+Total exports: 14 (1ms)
+Analysed files: 13 (6ms)
+Not used exports: 10 (1ms)
+Found circular imports: 0 (1ms)
+Total ellapsed time (ms): 13126
+------------------------------------------------------------------------

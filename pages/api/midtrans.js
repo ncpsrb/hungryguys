@@ -3,13 +3,13 @@ var transactionToken, transactionRedirectURL;
 let snap = new midtransClient.Snap({
   isProduction: false,
   serverKey: "SB-Mid-server-rMGdiX8hZ9OY4Q4JY-GcpJGE",
-  clientKey: "Mid-client-xthpcEVu-Jw0Oiou",
+  clientKey: "SB-Mid-client-20BeY8kZfwB3A0TX",
 });
 
 let parameter = {
   transaction_details: {
-    order_id: "test-transaction-123",
-    gross_amount: 200000,
+    order_id: "test-transaction-1234",
+    gross_amount: 30000,
   },
   credit_card: {
     secure: true,
