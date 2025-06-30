@@ -14,12 +14,6 @@ class Payment extends BaseController
     protected $db;
     public function __construct()
     {
-        // Config::$serverKey = 'SB-Mid-server-nNS3EILyAfaF_Ovt9TF4lzeA';
-        // Config::$clientKey = 'SB-Mid-client-KpsIaNJcMWQUc-to';
-        // Config::$isProduction = false;
-        // Config::$isSanitized = true;
-        // Config::$is3ds = true;
-        // $this->transaction = new \Midtrans\Transaction();
         $this->transactionModel = new TransactionModel();
         $this->db = \Config\Database::connect();
     }
