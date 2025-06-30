@@ -24,6 +24,8 @@ Hungry Guys Store is a game voucher storefront built with CodeIgniter 4. Users c
 
 ---
 
+### 🛍️ Checkout page
+
 ![Screenshot](./checkout.png)
 
 > This is the main page where users can browse purchase game vouchers and can be managed from administrator dashboard
